@@ -1,6 +1,6 @@
 # Zipfian Paper Simulations
 
-This repository contains the code to run and visualize then visualize the simulations.
+This repository contains the code to run and then visualize the simulations.
 
 The simulations are labeled sim1, sim2, and sim3, corresponding to the left, middle, and right panels of figure 2 in the paper.
 
