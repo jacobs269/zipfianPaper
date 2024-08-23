@@ -7,7 +7,6 @@ library(gridExtra)
 library(grid)
 library(gtable)
 library(magick)
-setwd("~/Desktop/sandiaProjects/languageModels/simulations")
 
 
 ytitle = TeX("Monte Carlo Estimate of Mean $\\| \\cdot \\|_1$ Error")
