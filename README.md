@@ -4,7 +4,9 @@ This repository contains the code to run and then visualize the simulations.
 
 The simulations are labeled sim1, sim2, and sim3, corresponding to the left, middle, and right panels of figure 2 in the paper.
 
-sim1,sim2 and sim3 are implemented in simulationFunctions.py. To run each simulation, in the directory of simulationFunctions.py, run 
+sim1,sim2 and sim3 are implemented in simulationFunctions.py. simulationFunctions.py depends only on the numpy package.
+
+To run each simulation, in the directory of simulationFunctions.py, run 
 
 python3 simX.py 
 
