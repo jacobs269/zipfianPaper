@@ -12,6 +12,8 @@ python3 simX.py
 
 in the terminal. This will create a csv file of the data output from the simulation and store it in the data/simX.py file
 
-analysis.R creates the visualizations for the 3 simulations. After creating the 3 simulation data files, the simulation visuals are created by opening R (or RStudio) and running analysis.R
+analysis.R creates the visualizations for the 3 simulations. After creating the 3 simulation data files, the simulation visuals are created by opening R (or RStudio) and running analysis.R after doing the following:
+1. Use the setwd command to set the working directory to the location where the data files are stored
+2. Install the depending libraries (tidyverse,ggplot2,latex2exp,broom,xtable,gridExtra,grid,gtable,magick)
 
 The simulations for the paper were created on an Apple M1 Macbook Pro with OS Ventura using Python 3.9.6 and R 4.2.2
