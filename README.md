@@ -1,4 +1,8 @@
-# Zipfian Paper Simulations
+# Zipfian Paper
+
+Find the paper in the file paper.pdf. The bibliography for the poster is contained in posterBibliography.pdf.
+
+## Running Code and Simlulations From Paper
 
 This repository contains the code to run and then visualize the simulations.
 
