@@ -1,6 +1,6 @@
 # Zipfian Paper
 
-Find the paper in the file paper.pdf. The bibliography for the Data Science Day 2025 poster is contained in posterBibliography.pdf.
+Find the paper in the file paper.pdf.
 
 ## Running Code and Simlulations From Paper
 
