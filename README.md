@@ -1,6 +1,6 @@
 # Zipfian Paper
 
-Find the paper in the file paper.pdf.
+Find the paper in the file paper.pdf. 
 
 ## Running Code and Simlulations From Paper
 
